@@ -1,0 +1,1 @@
+import HomeSections from "../components/HomeSections"; export default HomeSections;
